@@ -1,5 +1,5 @@
 [
-    {"nama": "Al-Fatihah", "blur": false},
+    {"nama": "Al-Fatihah", "blur": true},
     {"nama": "Al-Baqarah", "blur": false},
     {"nama": "Ali 'Imran", "blur": false},
     {"nama": "An-Nisa'", "blur": false},
@@ -112,5 +112,5 @@
     {"nama": "Al-Lahab", "blur": false},
     {"nama": "Al-Ikhlas", "blur": false},
     {"nama": "Al-Falaq", "blur": false},
-    {"nama": "An-Nas", "blur": false}
+    {"nama": "An-Nas", "blur": true}
 ]
