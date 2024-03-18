@@ -80,7 +80,7 @@
     {"nama": "An-Nazi'at", "blur": false},
     {"nama": "Abasa", "blur": false},
     {"nama": "At-Takwir", "blur": false},
-    {"nama": "Al-Infitar", "blur": false},
+    {"nama": "Al-Infitar", "blur": true},
     {"nama": "Al-Mutaffifin", "blur": false},
     {"nama": "Al-Inshiqaq", "blur": false},
     {"nama": "Al-Buruj", "blur": false},
